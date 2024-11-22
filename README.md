@@ -1,1 +1,1 @@
-# godot_export_templates_windowsd
+# godot_export_templates_windows
